@@ -6,9 +6,8 @@ DESIGN FOR 1ST STAGE
 
 1. To access design tool
    - Run python file: Notbypass.py
-   - Circuit:
-     
-         ![image](https://github.com/user-attachments/assets/65e173d7-2b34-44f7-a6b1-273d8cdd82ef)
+   - Circuit:<br>
+      ![image](https://github.com/user-attachments/assets/65e173d7-2b34-44f7-a6b1-273d8cdd82ef)
    - INPUT:
        + Voltage supply:
        + Total voltage gain: Desize A_v or G you want
