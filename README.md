@@ -1,6 +1,6 @@
 # Analog-Electronics
 Project for Analog Electronics: Audio Amplifier
-DESIGN FOR 1ST STAGE
+DESIGN FOR 1ST STAGE AND SIM ALL STAGE
 
 
 
