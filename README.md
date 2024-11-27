@@ -18,7 +18,11 @@ DESIGN FOR 1ST STAGE AND SIM ALL STAGE
        + Precision: (Coefficient to evaluate Q_point is at the middle of DC Load Line or not) Near 100 is good
        + Gain: Actual gain calculate with normal resistors' value
        + Linear: If not Linear, please increase Voltage supply or decrease Total voltage gain
-   - NOTE: Actual value of resistor could vary from each components with same design value
+   - NOTE:
+       + Actual value of resistor could vary from each components with same design value
+   - Experience:
+       + Increase R1 or reduce R2 -> Lower operating point (Q)
+       + Increase RE or reduce RC -> Lower operating point (Q)
 
 ## 2. Simulation
    - Sim with Proteus (easy to use). If u want advance sim, LTSpice is recommend
