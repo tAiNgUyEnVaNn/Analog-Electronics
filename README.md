@@ -4,7 +4,7 @@ DESIGN FOR 1ST STAGE
 
 
 
-1. To access design tool
+## 1. To access design tool
    - Run python file: Notbypass.py
    - Circuit:<br>
          ![image](https://github.com/user-attachments/assets/65e173d7-2b34-44f7-a6b1-273d8cdd82ef)
@@ -20,4 +20,7 @@ DESIGN FOR 1ST STAGE
        + Linear: If not Linear, please increase Voltage supply or decrease Total voltage gain
    - NOTE: Actual value of resistor could vary from each components with same design value
 
-2. 
+## 2. Simulation
+   - Sim with Proteus (easy to use). If u want advance sim, LTSpice is recommend
+   - Right Click and choose Root sheet 2. Or click to "Design" -> root sheet 2
+
