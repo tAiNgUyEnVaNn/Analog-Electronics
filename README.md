@@ -1,6 +1,6 @@
 # Analog-Electronics
-Project for Analog Electronics: Audio Amplifier
-DESIGN FOR 1ST STAGE AND SIM ALL STAGE
+Project for Analog Electronics I (ET3230) - SEEE - HUST: Audio Amplifier  
+DESIGN FOR 1ST STAGE AND SIMULATION FOR ALL STAGE
 
 
 
